@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nix3269
 - 👀 I’m interested in Cybersecurity/ Pentesting and the such.
-- 🌱 I’m currently learning M.Sc Cybersecurity at Swansea University, Swansea.
+- 🌱 I’ve Completed my degree in M.S Cybersecurity.
 - 📫 Email- nix3269@gmail.com
 
 <!---
